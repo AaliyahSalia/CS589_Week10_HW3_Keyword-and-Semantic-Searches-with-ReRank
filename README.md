@@ -1,6 +1,6 @@
 # CS589_Week10_HW3_Keyword-and-Semantic-Searches-with-ReRank
 
-#Dense Retrieval
+**Dense Retrieval**
 
 Dense vectors:
 In dense retrieval, documents and queries are represented as dense vectors in a high-dimensional vector space.
@@ -12,7 +12,7 @@ Dense vectors capture rich semantic information about the text, allowing for mor
 Embeddings:
 Dense retrieval often involves using word embeddings or document embeddings, such as Word2Vec, Doc2Vec, or more advanced models like BERT, to represent text as dense vectors.
 
-#Sparse Retrieval
+**Sparse Retrieval**
 
 Sparse representations:
 In contrast, sparse retrieval relies on sparse representations, typically using techniques like TF-IDF (Term Frequency-Inverse Document Frequency) or bag-of-words models.
