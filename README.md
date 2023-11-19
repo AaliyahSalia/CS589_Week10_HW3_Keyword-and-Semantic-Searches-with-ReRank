@@ -1,5 +1,7 @@
 # CS589_Week10_HW3_Keyword-and-Semantic-Searches-with-ReRank
 
+*Google Slides*: https://docs.google.com/presentation/d/1q-DRI8Yf705rsB-4Itaejd9tNRqBHX26vTq39kUNXZU/edit?usp=sharing
+
 **Dense Retrieval**
 
 Dense vectors:
